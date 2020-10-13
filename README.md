@@ -59,6 +59,18 @@ In this template...
       <li>Yungi's Dev Blog: https://yungis.dev/</li>
       <li>< Taenylog />: https://taeny.dev/</li>
       <li>brouk's devlog: https://brouk-devlog.netlify.com/</li>
+      <li>CoodingPenguin's Repository: https://cooding-penguin.netlify.com/</li>
+      <li>Garima's Tech Blog: https://garimasingh.netlify.app/ </li>
+      <li>DevRappers.dev: https://devrappers.dev/</li>
+      <li>Let's doodle: https://duduling-blog.netlify.app/</li>
+      <li>noopy.dev: https://noopy.dev/</li>
+      <li>Hong_Devlog: https://hong-dev.github.io/</li>
+      <li>samsara-ku's devlog: https://samsara-ku.dev/</li>
+      <li>sundo.kim: https://sundo.kim/</li>
+      <li>knou blog: https://bangtong.in/</li>
+      <li>cereme.dev: https://cereme.dev</li>
+      <li>taekki.dev: https://taekki.dev</li>
+      <li>kkh913's Developer Blog: https://kkh913.github.io</li>
     </ul>
   </p>
 </details>
@@ -105,6 +117,8 @@ You can write...
 ```sh
 npm run post
 ```
+
+👉 Use **gatsby-post-gen** (https://github.com/JaeYeopHan/gatsby-post-gen)
 
 ### 4. Fix meta data
 
@@ -169,6 +183,7 @@ src/styles
 - Favicon image! (replace file in `/content/assets/felog.png`)
 - Header gradient! (\$theme-gradient `/styles/variables.scss`)
 - Utterances repository! (replace repository address in `/gatsby-meta-config.js`)
+  - ⚠️ Please check, this guide(https://utteranc.es/)
 
 ## ☕ Like it?
 

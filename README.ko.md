@@ -57,6 +57,16 @@ In this template...
       <li>Yungi's Dev Blog: https://yungis.dev/</li>
       <li>< Taenylog />: https://taeny.dev/</li>
       <li>brouk's devlog: https://brouk-devlog.netlify.com/</li>
+      <li>CoodingPenguin's Repository: https://cooding-penguin.netlify.com/</li>
+      <li>DevRappers.dev: https://devrappers.dev/</li>
+      <li>Let's doodle: https://duduling-blog.netlify.app/</li>
+      <li>Hong_Devlog: https://hong-dev.github.io/</li>
+      <li>samsara-ku's devlog: https://samsara-ku.dev/</li>
+      <li>sundo.kim: https://sundo.kim/</li>
+      <li>Juunone's devlog: https://juunone.netlify.app/</li>
+      <li>cereme.dev: https://cereme.dev</li>
+      <li>taekki.dev: https://taekki.dev</li>
+      <li>kkh913's Developer Blog: https://kkh913.github.io</li>
     </ul>
   </p>
 </details>
@@ -105,6 +115,8 @@ npm run post
 ```
 
 위 커맨드를 입력하면 새로운 포스트가 생성됩니다.
+
+👉 **gatsby-post-gen** CLI 도구를 사용합니다. (https://github.com/JaeYeopHan/gatsby-post-gen)
 
 ### 4. 메타데이터 수정
 
@@ -170,6 +182,8 @@ src/styles
 - 프로필 사진! (replace file in `/content/assets/profile.png`)
 - 파비콘 이미지! (replace file in `/content/assets/felog.png`)
 - 헤더의 그라데이션! (\$theme-gradient `/styles/variables.scss`)
+- Utterances를 위한 repository를 설정해주세요! (`/gatsby-meta-config.js`의 repository 주소를 교체해주세요.)
+  - ⚠️ 이 가이드(https://utteranc.es/)를 꼭 확인해주세요.
 
 ## ☕ 마음에 드셨나요?
 
